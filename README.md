@@ -11,3 +11,7 @@ Features / approach
 
 Login 
 Username and password are "vagrant"
+
+
+Based partially on
+https://github.com/p0rkjello/centos-packer-virtualbox
